@@ -43,5 +43,3 @@ for file_name in os.listdir(source_folder):
                 print(f"PNG file not found for {file_name}")
 
 print("Process completed.")
-
-
