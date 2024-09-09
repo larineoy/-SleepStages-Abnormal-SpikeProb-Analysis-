@@ -16,3 +16,4 @@ for array_name in data.files:
         print(f"Array name: {array_name}")
         print(f"Number of elements: {array.size}")
 
+
