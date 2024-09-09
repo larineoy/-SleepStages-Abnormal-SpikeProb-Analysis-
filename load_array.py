@@ -15,3 +15,4 @@ for array_name in data.files:
     if array.ndim == 1:
         print(f"Array name: {array_name}")
         print(f"Number of elements: {array.size}")
+
