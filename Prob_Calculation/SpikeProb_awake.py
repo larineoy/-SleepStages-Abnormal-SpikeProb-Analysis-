@@ -79,3 +79,5 @@ for file_name in os.listdir(folder_path):
         
         # Output the file name and the calculated probability
         print(f"{file_name}: Probability = {probability:.4f}")
+
+
