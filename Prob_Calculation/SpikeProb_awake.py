@@ -2,7 +2,7 @@ import os
 import numpy as np
 
 # Define the folder to search
-folder_path = "/Users/larineouyang/Downloads/sleep_stages/TD_spikes"
+folder_path = "/Users/larineouyang/Downloads/sleep_stages/ASD_spikes"
 
 # Function to count the total number of 3s in the arrays
 def count_total_threes(array):

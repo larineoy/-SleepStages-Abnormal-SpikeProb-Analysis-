@@ -3,8 +3,8 @@ import numpy as np
 import shutil
 
 # Define the source folder and the destination folder
-source_folder = "/Users/larineouyang/Downloads/sleep_stages/TD"
-destination_folder = "/Users/larineouyang/Downloads/sleep_stages/TD_spikes"
+source_folder = "/Users/larineouyang/Downloads/sleep_stages/ASD"
+destination_folder = "/Users/larineouyang/Downloads/sleep_stages/ASD_spikes"
 
 # Create the destination folder if it doesn't exist
 if not os.path.exists(destination_folder):
